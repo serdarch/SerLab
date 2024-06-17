@@ -2,7 +2,7 @@
 
 [![GitHub Repository: SERNet-Former](https://img.shields.io/badge/GitHub-SERNetFormer-yellow)](https://github.com/serdarch/SERNet-Former)
 [![GitHub Repository: Efficient-ResNet](https://img.shields.io/badge/GitHub-EfficientResNet-yellow)](https://github.com/serdarch/Efficient-ResNet)
-
+[![GitHub Repository: CNN-D3](https://img.shields.io/badge/GitHub-CNN_D3-blue)](https://github.com/serdarch/CNN-D3)
 
 ## News
 - `16 May 2024`   [CVPR 2024 Workshops] The article "SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks" is now accepted to CVPR 2024 Workshops. Equivariant Vision: From Theory to Practice
