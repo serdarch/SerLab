@@ -1,6 +1,5 @@
 # SerLab
 
-[![GitHub Repository: SerLab](https://img.shields.io/badge/GitHub-SerLab-yellow)](https://github.com/serdarch/SerLab)
 [![GitHub Repository: SERNet-Former](https://img.shields.io/badge/GitHub-SERNetFormer-yellow)](https://github.com/serdarch/SERNet-Former)
 [![GitHub Repository: Efficient-ResNet](https://img.shields.io/badge/GitHub-EfficientResNet-yellow)](https://github.com/serdarch/Efficient-ResNet)
 
