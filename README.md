@@ -4,6 +4,11 @@
 [![GitHub Repository: Efficient-ResNet](https://img.shields.io/badge/GitHub-EfficientResNet-yellow)](https://github.com/serdarch/Efficient-ResNet)
 [![GitHub Repository: CNN-D3](https://img.shields.io/badge/GitHub-CNN_D3-blue)](https://github.com/serdarch/CNN-D3)
 [![GitHub Repository: CNN-D3-v2](https://img.shields.io/badge/GitHub-CNN_D3_v2-blue)](https://github.com/serdarch/CNN-D3_v2)
+
+[![[CVPR 2024 Workshops] YouTube Video](https://img.shields.io/badge/CVPRW'24-YouTube-red)](https://youtu.be/XXzMkotcdb4?feature=shared) |
+[![ArXiv paper](https://img.shields.io/badge/SERNetFormer-ArXiv-red)](https://doi.org/10.48550/arXiv.2401.15741)
+
+
 ## News
 - `16 May 2024`   [CVPR 2024 Workshops] The article "SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks" is now accepted to CVPR 2024 Workshops. Equivariant Vision: From Theory to Practice
 - `January 2024`   SERNet-Former set state-of-the-art result on Cityscapes validation dataset for pixel-level segmentation: 87.35 % mIoU
