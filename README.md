@@ -7,6 +7,7 @@
 
 
 ## News
+- `30 July 2024`  [CVMI 2024] The article "SERNet-Former: Segmentation by Efficient-ResNet with Attention-Boosting Gates and Attention-Fusion Networks" is accepted to The 3rd IEEE International Conference on Computer Vision and Machine Intelligence (IEEE CVMI)
 - `16 May 2024`   [CVPR 2024 Workshops] The article "SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks" is now accepted to CVPR 2024 Workshops. Equivariant Vision: From Theory to Practice
 [![[CVPR 2024 Workshops] YouTube Video](https://img.shields.io/badge/CVPRW'24-YouTube-red)](https://youtu.be/XXzMkotcdb4?feature=shared)
 [![ArXiv paper](https://img.shields.io/badge/SERNetFormer-ArXiv-red)](https://doi.org/10.48550/arXiv.2401.15741)
