@@ -1,4 +1,3 @@
-'<!DOCTYPE html>'
 absl-py==1.4.0
 accelerate==0.34.2
 addict==2.4.0
